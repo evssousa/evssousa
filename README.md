@@ -19,7 +19,7 @@ Sou de Fortaleza/CE, Brasil. Atuamente estou na saga dos estudos em programaçã
 **OUTRAS INFORMAÇÕES...**
 * Se precisar entrar em contato comigo, só me mandar um email: evs.link@hotmail.com;
 * Dá um olhada no meu <a href='https://https://www.linkedin.com/in/evssousa/' target='_blank'>Linkedin</a>;
-* Há, também tenho um portfólio <a href='https://4kest.com' target='_blank'>(AQUI)</a> com alguns sites que criei em trabalhos freelancers (em WordPress);
+* Há, também tenho um portfólio <a href='https://eversonsousa.com.br' target='_blank'>(AQUI)</a> com alguns sites que criei em trabalhos freelancers (em WordPress);
 
 **MEUS STATUS, LINGUAGENS E REDES SOCIAIS...**
  <div>
