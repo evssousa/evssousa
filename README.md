@@ -22,7 +22,7 @@ Sou de Fortaleza/CE, Brasil. Atuamente estou na saga dos estudos em programaçã
 * Há, também tenho um portfólio <a href='https://eversonsousa.com.br' target='_blank'>(AQUI)</a> com alguns sites que criei em trabalhos freelancers (em WordPress);
 
 **QUER DÁ EM ALGUNS DOS MEUS PROJETOS?...**
-* Clica ai, é rapidão: <a href="https://evssousa.github.io/meus-projetos/" target='_blank'>CLIQUE AQUI</a>
+* Clica ai, é rapidão: <a href="https://evssousa.github.io/meus-projetos/" target='_blank'> >>> CLIQUE AQUI <<< </a>
 
 **MEUS STATUS, LINGUAGENS E REDES SOCIAIS...**
  <div>
