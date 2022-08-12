@@ -33,6 +33,8 @@ Sou de Paramoti/CE, Brasil. Atuamente estou na saga de evolução na carreira de
   <img align="center" alt="Evs-WordPress" height="30" width="30" src="https://i.imgur.com/W74KJzo.png">
  </div>
  
+ <br>
+ 
  <div>
   <a href="https://github.com/evssousa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=evssousa&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
