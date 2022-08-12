@@ -2,15 +2,15 @@
 
 ## Opa! Sou **Everson Sousa**, tudo bem?
 
-Sou de Fortaleza/CE, Brasil. Atuamente estou na saga dos estudos em programação, para logo logo poder trabalhar na área (sou apaixonado por informática!). RPGista nas horas vagas -ou quando o grupo resolve se encontrar-, também sou professor de Karate 🥋 ! 
+Sou de Paramoti/CE, Brasil. Atuamente estou na saga de evolução na carreira de programação. RPGista nas horas vagas -ou quando o grupo resolve se encontrar-, também sou professor de Karate 🥋 ! 
 
 ---
 **ATUALMENTE...**
-- 🐱‍💻 Estudando **HTML5**, **CSS3** e **Javascript**;
-- 🧠 Em busca de desenvolvimento para evoluir na carreira de dev (há sonho...);
+- 🐱‍💻 Experiências em **HTML5**, **CSS3** e **Javascript**;
+- 🧠 Em busca de desenvolvimento para evoluir na carreira dev;
 
 **HOBBIES...**
-  * Praticar Karate (e/ou outras lutas);
+  * Praticar Karate, Judo e Jiu-Jitsu (e/ou outras lutas);
   * Jogar RPG (Tormenta20!!!);
   * Passar raiva jogando vídeo game (Megaman, meus senhores);
   * Escrever no meu site de animes (<a href='https://animeprofile.com.br'>Anime Profile</a>);
@@ -25,17 +25,18 @@ Sou de Fortaleza/CE, Brasil. Atuamente estou na saga dos estudos em programaçã
 * Clica ai, é rapidão: <a href="https://evssousa.github.io/meus-projetos/" target='_blank'> >>> CLIQUE AQUI <<< </a>
 
 **MEUS STATUS, LINGUAGENS E REDES SOCIAIS...**
- <div>
-  <a href="https://github.com/evssousa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=evssousa&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evssousa&layout=compact&langs_count=7&theme=vue-dark"/>
-</div>
-
-<div style="display: inline_block"><br>
+ 
+ <div style="display: inline_block"><br>
   <img align="center" alt="Evs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Evs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Evs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Evs-WordPress" height="30" width="30" src="https://i.imgur.com/W74KJzo.png">
+ </div>
+ 
+ <div>
+  <a href="https://github.com/evssousa">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=evssousa&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evssousa&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   
   ## 
