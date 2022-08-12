@@ -24,8 +24,7 @@ Sou de Paramoti/CE, Brasil. Atuamente estou na saga de evolução na carreira de
 **QUER DÁ UMA OLHADA RÁPIDA NO MEU REPOSITÓRIO?**
 * Clica ai, é rapidão: <a href="https://evssousa.github.io/meus-projetos/" target='_blank'> >>> CLIQUE AQUI <<< </a>
 
-**MEUS STATUS, LINGUAGENS E REDES SOCIAIS...**
- 
+**LINGUAGENS, STATUS E REDES SOCIAIS...**
  <div style="display: inline_block"><br>
   <img align="center" alt="Evs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Evs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
