@@ -6,7 +6,7 @@ Sou de Paramoti/CE, Brasil. Atuamente estou na saga de evolução na carreira de
 
 ---
 **ATUALMENTE...**
-- 🐱‍💻 Experiências em **HTML5**, **CSS3**, **Javascript**, **NodeJS**;
+- 🐱‍💻 Experiências em **HTML5**, **CSS3**, **SASS**, **Javascript**, **NodeJS**;
 - 🧠 Em busca de desenvolvimento para evoluir na carreira dev;
 
 **HOBBIES...**
@@ -30,6 +30,7 @@ Sou de Paramoti/CE, Brasil. Atuamente estou na saga de evolução na carreira de
   <img align="center" alt="Evs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Evs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Evs-NodeJS" height="30" width="30" src="https://i.imgur.com/LHngLi0.png">
+  <img align="center" alt="Evs-SASS" height="30" width="30" src="https://i.imgur.com/XlDKp4Y.png">
   <img align="center" alt="Evs-WordPress" height="30" width="30" src="https://i.imgur.com/W74KJzo.png">
  </div>
  
