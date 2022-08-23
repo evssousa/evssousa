@@ -6,7 +6,7 @@ Sou de Paramoti/CE, Brasil. Atuamente estou na saga de evolução na carreira de
 
 ---
 **ATUALMENTE...**
-- 🧠 Em busca de desenvolvimento para evoluir na carreira dev;
+- 🧠 Em busca de desenvolvimento na carreira de dev back-end;
 - 🐱‍💻 Experiências em 
   <img align="center" alt="Evs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Evs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
