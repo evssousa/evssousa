@@ -14,7 +14,7 @@ Sou de Paramoti/CE, Brasil. Atuamente estou na saga de evolução na carreira de
   <img align="center" alt="Evs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Evs-NodeJS" height="30" width="30" src="https://i.imgur.com/LHngLi0.png">
   <img align="center" alt="Evs-PHP" height="30" width="30" src="https://i.imgur.com/CvkhXSg.png">
-  <img align="center" alt="Evs-WordPress" height="30" width="30" src="https://i.imgur.com/W74KJzo.png">
+  <img align="center" alt="Evs-WordPress" height="40" width="40" src="https://i.imgur.com/W74KJzo.png">
 
 **HOBBIES...**
   * Praticar Karate, Judo e Jiu-Jitsu (e/ou outras lutas);
