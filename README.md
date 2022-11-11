@@ -28,9 +28,6 @@ Sou de Paramoti/CE, Brasil. Atuamente estou na saga de evolução na carreira de
 * Dá um olhada no meu <a href='https://https://www.linkedin.com/in/evssousa/' target='_blank'>Linkedin</a>;
 * Há, também tenho um portfólio <a href='https://eversonsousa.com.br' target='_blank'>(AQUI)</a> com alguns sites que criei em trabalhos freelancers (em WordPress);
 
-**QUER DÁ UMA OLHADA RÁPIDA NO MEU REPOSITÓRIO?**
-* Clica ai, é rapidão: <a href="https://evssousa.github.io/meus-projetos/" target='_blank'> >>> CLIQUE AQUI <<< </a>
-
 **STATUS E REDES SOCIAIS...**
  <div>
   <a href="https://github.com/evssousa">
