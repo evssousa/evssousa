@@ -4,7 +4,6 @@
 
 Sou de Paramoti/CE, Brasil. Atuamente estou na saga de evolução na carreira de programação. RPGista nas horas vagas -ou quando o grupo resolve se encontrar-, também sou professor de Karate 🥋 ! 
 
----
 **ATUALMENTE...**
 - 🧠 Em busca de desenvolvimento na carreira de dev back-end;
 - 🐱‍💻 Experiências em 
