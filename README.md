@@ -1,5 +1,3 @@
-## <img align="left" alt="atqjunior-myoctocat" src="https://media.tenor.com/images/2490233e3d61a358e209e708969c20f6/tenor.gif" width="180px"/><a href="https://github.com/evssousa"></a>
-
 ## Opa! Sou **Everson Sousa**, tudo bem?
 
 Sou de Paramoti/CE, Brasil. Atuamente estou na saga de evolução na carreira de programação. RPGista nas horas vagas -ou quando o grupo resolve se encontrar-, também sou professor de Karate 🥋 ! 
