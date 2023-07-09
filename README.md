@@ -1,6 +1,6 @@
 ## Opa! Sou **Everson Sousa**, tudo bem?
 
-Sou de Paramoti/CE, Brasil. RPGista nas horas vagas -ou quando o grupo resolve se encontrar-, sou professor de desenvolvimento de sistemas e professor de Karate 🥋. 
+RPGista nas horas vagas -ou quando o grupo resolve se encontrar-, sou professor de desenvolvimento de sistemas e professor de Karate 🥋. 
 
 **ATUALMENTE...**
 - 🧠 Em busca de evolução na carreira dev full-stack;
