@@ -6,6 +6,7 @@ RPGista nas horas vagas -ou quando o grupo resolve se encontrar-, sou professor 
 <img align="center" alt="Evs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Evs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Evs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Evs-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Evs-Python" height="35" width="35" src="https://i.imgur.com/w6HYuAI.png">
 
 **HOBBIES...**
