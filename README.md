@@ -1,6 +1,6 @@
 ## Opa! Sou **Everson Sousa**, tudo bem?
 
-RPGista nas horas vagas -ou quando o grupo resolve se encontrar-, sou professor de desenvolvimento de sistemas e professor de Karate 🥋. 
+RPGista nas horas vagas -ou quando o grupo resolve se encontrar. 
 
 **EXPERIÊNCIAS...**<br>
 <img align="center" alt="Evs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
