@@ -8,6 +8,7 @@ RPGista nas horas vagas -ou quando o grupo resolve se encontrar.
   <img align="center" alt="Evs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Evs-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Evs-Python" height="35" width="35" src="https://i.imgur.com/w6HYuAI.png">
+  <img align="center" alt="Evs-Python" height="35" width="35" src="https://i.imgur.com/WdYTcpY.png">
   <img align="center" alt="Evs-Ruby" height="30" width="30" src="https://i.imgur.com/zcmAFRz.png">
   <img align="center" alt="Evs-Rails" height="60" width="60" src="https://i.imgur.com/1Njnx5z.png">
 
