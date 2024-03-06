@@ -3,18 +3,18 @@
 RPGista nas horas vagas -ou quando o grupo resolve se encontrar. 
 
 **EXPERIÊNCIAS...**<br>
-<img align="center" alt="Evs-HTML" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Evs-CSS" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Evs-Js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Evs-Bootstrap" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Evs-Git" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="Evs-React" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="Evs-React-Native" height="45" src="https://alunos.b7web.com.br/media/courses/logo/react-native.jpg">
-  <img align="center" alt="Evs-Python" height="45" src="https://i.imgur.com/w6HYuAI.png">
-  <img align="center" alt="Evs-SQLite" height="45" src="https://i.imgur.com/WdYTcpY.png">
-  <img align="center" alt="Evs-Ruby" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Evs-Rails" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg">
-  <img align="center" alt="Evs-C#" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+<img align="center" alt="Evs-HTML" title="HTML5" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="Evs-CSS" title="CSS3" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="Evs-Js" title="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Evs-Bootstrap" title="Bootstrap" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Evs-Git" title="Git" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Evs-React" title="React" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="Evs-React-Native" title="React Native" height="45" src="https://alunos.b7web.com.br/media/courses/logo/react-native.jpg">
+  <img align="center" alt="Evs-Python" title="Python" height="45" src="https://i.imgur.com/w6HYuAI.png">
+  <img align="center" alt="Evs-SQLite" title="SQLite" height="45" src="https://i.imgur.com/WdYTcpY.png">
+  <img align="center" alt="Evs-Ruby" title="Ruby" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Evs-Rails" title="Rails" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg">
+  <img align="center" alt="Evs-C#" title="C#" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   
 
 **HOBBIES...**
