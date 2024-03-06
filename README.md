@@ -32,6 +32,6 @@ RPGista nas horas vagas -ou quando o grupo resolve se encontrar.
 **STATUS E REDES SOCIAIS...**
  <div>
   <a href="https://github.com/evssousa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=evssousa&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evssousa&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=evssousa&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evssousa&layout=compact&langs_count=7&theme=vue-dark"/>
  </div>
