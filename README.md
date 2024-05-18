@@ -1,6 +1,6 @@
 ## Opa! Sou **Everson Sousa**, tudo bem?
 
-RPGista nas horas vagas -ou quando o grupo resolve se encontrar. 
+Coord/Prof de Desenvolvimento de Sistemas e Rede de Computadores. Também RPGista nas horas vagas -ou quando o grupo resolve se encontrar. 
 
 **EXPERIÊNCIAS...**<br>
 <img align="center" alt="Evs-HTML" title="HTML5" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
