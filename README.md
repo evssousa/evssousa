@@ -5,7 +5,7 @@ Coord/Prof de Desenvolvimento de Sistemas e Rede de Computadores. Também RPGist
 **PROEFICIÊNCIAS...**<br>
 <img align="center" alt="Evs-HTML" title="HTML5" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 <img align="center" alt="Evs-CSS" title="CSS3" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-<img align="center" alt="Evs-Js" title="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+<img align="center" alt="Evs-Js" title="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Evs-React-Native" title="React Native" height="45" src="https://alunos.b7web.com.br/media/courses/logo/react-native.jpg">
 <img align="center" alt="Evs-Python" title="Python" height="45" src="https://i.imgur.com/w6HYuAI.png">
   
