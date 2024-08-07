@@ -27,7 +27,7 @@ Coord/Prof de Desenvolvimento de Sistemas e Rede de Computadores. Também RPGist
 
 **OUTRAS INFORMAÇÕES...**
 * Se precisar entrar em contato comigo, só me mandar um email: evs.link@hotmail.com;
-* Dá um olhada no meu <a href='https://https://www.linkedin.com/in/evssousa/' target='_blank'>Linkedin</a>;
+* Dá um olhada no meu <a href='https://www.linkedin.com/in/evssousa/' target='_blank'>Linkedin</a>;
 * Há, também tenho um portfólio <a href='https://eversonsousa.com.br' target='_blank'>(AQUI)</a> de alguns trabalhos freelancers (em WordPress);
 
 **STATUS E REDES SOCIAIS...**
