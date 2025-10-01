@@ -8,18 +8,19 @@ Coord/Prof de Desenvolvimento de Sistemas e Rede de Computadores. Também RPGist
 <img align="center" alt="Evs-Js" title="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Evs-React" title="React" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img align="center" alt="Evs-Tailwind" title="Tailwind" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-<img align="center" alt="Evs-Jest" title="Jest" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />          
+<img align="center" alt="Evs-NodeJS" title="NodeJS" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg">
+<img align="center" alt="Evs-Jest" title="Jest" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg">
+<img align="center" alt="Evs-Ruby" title="Ruby" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg">
+<img align="center" alt="Evs-Python" title="Python" height="45" src="https://i.imgur.com/w6HYuAI.png">
 
 **EXPERIÊNCIAS...**<br>
 <img align="center" alt="Evs-Git" title="Git" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 <img align="center" alt="Evs-Bootstrap" title="Bootstrap" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
 <img align="center" alt="Evs-SQLite" title="SQLite" height="45" src="https://i.imgur.com/WdYTcpY.png">
-<img align="center" alt="Evs-Ruby" title="Ruby" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg">
 <img align="center" alt="Evs-Rails" title="Rails" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg">
 <img align="center" alt="Evs-C#" title="C#" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 <img align="center" alt="Evs-React-Native" title="React Native" height="45" src="https://alunos.b7web.com.br/media/courses/logo/react-native.jpg">
 <img align="center" alt="Evs-NextJS" title="NextJS" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-<img align="center" alt="Evs-Python" title="Python" height="45" src="https://i.imgur.com/w6HYuAI.png">
 
 **HOBBIES...**
   * Praticar Karate, Judo e Jiu-Jitsu (e/ou outras lutas);
