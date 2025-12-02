@@ -25,7 +25,7 @@ Coord/Prof de Desenvolvimento de Sistemas e Rede de Computadores. Também RPGist
 **HOBBIES...**
   * Praticar Karate, Judo e Jiu-Jitsu (e/ou outras lutas);
   * Jogar RPG (Tormenta20!!!);
-  * Passar raiva jogando vídeo game (Megaman, meus senhores);
+  * Passar raiva jogando vídeo game (Megaman, Devil May Cry e Pokémon, os melhores!);
   * Escrever no meu site de animes (<a href='https://animeprofile.com.br'>Anime Profile</a>);
   * e só!? (atualizando...);
 
