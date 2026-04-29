@@ -19,7 +19,7 @@ Coord/Prof de Desenvolvimento de Sistemas e Rede de Computadores. Também RPGist
 <img align="center" alt="Evs-Rails" title="Rails" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg">
 <img align="center" alt="Evs-C#" title="C#" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 <img align="center" alt="Evs-Python" title="Python" height="45" src="https://i.imgur.com/w6HYuAI.png">
-<img align="center" alt="Evs-React-Native" title="React Native" height="45" src="https://alunos.b7web.com.br/media/courses/logo/react-native.jpg">
+<img align="center" alt="Evs-React-Native" title="React Native" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg">
 <img align="center" alt="Evs-NextJS" title="NextJS" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
 
 **HOBBIES...**
